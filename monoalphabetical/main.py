@@ -2,7 +2,7 @@
 
 Monoalphabetical Encryption
 
-made by slayernominee
+tutorial made by slayernominee
 
 """
 
